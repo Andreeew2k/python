@@ -1,2 +1,2 @@
-# python
-labsPP
+# python project 
+Fnotes
